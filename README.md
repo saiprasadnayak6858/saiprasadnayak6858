@@ -35,4 +35,4 @@
 ---
 <br />
 <br />
-[![Sai's github stats](https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Sai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&theme=vue" />
