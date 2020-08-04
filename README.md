@@ -37,7 +37,7 @@
 <br />
 
 <img align="left" alt="Sai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&theme=vue" />
-<img align="right" alt="Sai's top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiprasadnayak6858&layout=compact" />
+<img align="left" alt="Sai's top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiprasadnayak6858&layout=compact" />
 
 
 
