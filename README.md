@@ -9,7 +9,8 @@
 ### Connect with me:
 
 [<img align="left" alt="sainayak.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sainayak.com)
-[<img align="left" alt="Sai Nayak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sai_1503)
+<!--[<img align="left" alt="Sai Nayak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sai_1503) -->
+![Twitter Follow](https://img.shields.io/twitter/follow/sai_1503?style=social)
 [<img align="left" alt="Sai Nayak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sainayak/)
 [<img align="left" alt="Sai Nayak | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/saiprasad.nayak.73700/)
 
