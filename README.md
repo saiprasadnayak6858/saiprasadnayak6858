@@ -36,9 +36,9 @@
 <br />
 <br />
 
-<img align="left" alt="Sai's Github Stats" src="https://github-readme-stats.saiprasadnayak6858.vercel.app/api?username=saiprasadnayak6858&show_icons=true&theme=vue" />
+<img align="left" alt="Sai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&theme=vue" />
 
-<img align="left" alt="Sai's top languages" src="https://github-readme-stats.saiprasadnayak6858.vercel.app/api/top-langs?username=saiprasadnayak6858&layout=compact&hide=tsql&card_width=260" />
+<img align="left" alt="Sai's top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=saiprasadnayak6858&layout=compact&hide=tsql&card_width=260" />
 
 
 
