@@ -15,10 +15,11 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / TAILWIND CSS
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&count_private=true)   -->
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&count_private=true" />
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiprasadnayak6858" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=saiprasadnayak6858" />
 </a>
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saiprasadnayak6858)   -->
