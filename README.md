@@ -14,13 +14,13 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / TAILWIND CSS
 - 📫 How to reach me: hello@sainayak.com 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&count_private=true)   -->
-<a href="#" style="margin-bottom:10px">
+<a href="#" style="margin-bottom:30px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&count_private=true" />
 </a>
 
-<!-- <a href="https://github.com/anuraghazra/convoychat"> -->
+<a href="#" style="margin-bottom:30px">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiprasadnayak6858" />
-<!-- </a> -->
+</a>
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saiprasadnayak6858)   -->
 
