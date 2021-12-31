@@ -2,7 +2,9 @@
 ![I'm a Frontend Developer!](https://github.com/saiprasadnayak6858/saiprasadnayak6858/blob/master/LinkedIn.png)
 
 I'm Sai from India, and I love UI Development. I really enjoy learning languages and frameworks like React and NextJS, as well as work in NodeJS. I also enjoy wireframing, ui, ux, and design in general.
+
 ![Profile views](https://gpvc.arturio.dev/saiprasadnayak6858)  
+
 Skills: NEXT JS / REACT / JS / HTML / CSS / TAILWIND CSS
 
 - 🔭 I’m currently working on NextJS 
