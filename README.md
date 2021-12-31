@@ -21,14 +21,16 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / TAILWIND CSS
 <a href="#">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiprasadnayak6858"/>
 </a>
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://metrics.lecoq.io/saiprasadnayak6858"/>
-</a>
+</a> -->
 <!-- ![GitHub metrics](https://metrics.lecoq.io/saiprasadnayak6858)   -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saiprasadnayak6858)   -->
 
-
+<a href="#">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=saiprasadnayak6858"/>
+</a>
 
 
 
