@@ -28,9 +28,9 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / TAILWIND CSS
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saiprasadnayak6858)   -->
 
-<a href="#">
+<!-- <a href="#">
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=saiprasadnayak6858"/>
-</a>
+</a> -->
 
 
 
