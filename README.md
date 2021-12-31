@@ -14,7 +14,6 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / TAILWIND CSS
 - 📫 How to reach me: hello@sainayak.com 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&count_private=true)  
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saiprasadnayak6858)  
 
 ![GitHub metrics](https://metrics.lecoq.io/saiprasadnayak6858)  
