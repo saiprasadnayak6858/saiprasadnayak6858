@@ -13,16 +13,20 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / TAILWIND CSS
 - 💬 Ask me about UI and Frontend 
 - 📫 How to reach me: hello@sainayak.com 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saiprasadnayak6858)  
-
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&count_private=true)   -->
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&count_private=true"/>
+</a>
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saiprasadnayak6858)   -->
+<a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiprasadnayak6858"/>
+</a>
 <a>
   <img align="center" src="https://metrics.lecoq.io/saiprasadnayak6858"/>
 </a>
 <!-- ![GitHub metrics](https://metrics.lecoq.io/saiprasadnayak6858)   -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saiprasadnayak6858)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saiprasadnayak6858)   -->
 
 
 
