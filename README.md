@@ -16,7 +16,11 @@ Skills: NEXT JS / REACT / JS / HTML / CSS / TAILWIND CSS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiprasadnayak6858&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=saiprasadnayak6858)  
-![GitHub metrics](https://metrics.lecoq.io/saiprasadnayak6858)  
+
+<a>
+  <img align="center" src="https://metrics.lecoq.io/saiprasadnayak6858"/>
+</a>
+<!-- ![GitHub metrics](https://metrics.lecoq.io/saiprasadnayak6858)   -->
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=saiprasadnayak6858)  
 
